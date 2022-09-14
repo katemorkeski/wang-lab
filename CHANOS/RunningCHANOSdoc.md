@@ -2,7 +2,7 @@
 Dylan Titmuss
 
 ### Peristaltic pump flow rates
-_(last measured Sep 14, 2022)_
+_(measured Sep 14, 2022)_
 
 **Acid**
 | RPM | mL/min |
