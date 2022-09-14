@@ -1,20 +1,20 @@
 ## Running CHANOS documentation
 
 ### Peristaltic pump flow rates
-_last measured Sep 14, 2022_
+_(last measured Sep 14, 2022)_
 
-Acid
+*Acid*
 | RPM | mL/min |
 |---|---|
 | 0.5 | 0.025 |
 
-Indicator
+*Indicator*
 | RPM | mL/min |
 |---|---|
 | 3 | 0.15 |
 | 4 | 0.20 |
 
-Seawater
+*Seawater*
 | RPM | mL/min |
 |---|---|
 | 20 | . |
@@ -27,4 +27,9 @@ Seawater
 List of parts, product numbers, and purchase links [here](https://docs.google.com/spreadsheets/d/1qeb6Xm3a77qfnudg0RbO5zIJ3JhFE3r3gQCl5yniu-8/)
 
 ### Switching laptop functionality to prevent connection to WHOI network
+_(in command line)_
 `ssh root@192.168.0.50`
+navigate to `?` directory
+`cd etc`
+`cd network`
+
