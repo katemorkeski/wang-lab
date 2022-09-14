@@ -1,7 +1,7 @@
 ## Running CHANOS documentation
 
 ### Peristaltic pump flow rates
-last measured Sep 14, 2022
+_last measured Sep 14, 2022_
 
 Acid
 | RPM | mL/min |
