@@ -1,6 +1,6 @@
 ## Running CHANOS documentation
 
-### Flow rates
+### Peristaltic pump flow rates
 
 Acid
 | RPM | mL/min |
@@ -21,3 +21,6 @@ Seawater
 | 40 | . |
 | 45 | . |
 | 55 | . |
+
+### Fitting details
+List of parts, product numbers, and purchase links [here](https://docs.google.com/spreadsheets/d/1qeb6Xm3a77qfnudg0RbO5zIJ3JhFE3r3gQCl5yniu-8/)
