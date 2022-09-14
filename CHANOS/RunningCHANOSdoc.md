@@ -3,18 +3,18 @@
 ### Peristaltic pump flow rates
 _(last measured Sep 14, 2022)_
 
-*Acid*
+**Acid**
 | RPM | mL/min |
 |---|---|
 | 0.5 | 0.025 |
 
-*Indicator*
+**Indicator**
 | RPM | mL/min |
 |---|---|
 | 3 | 0.15 |
 | 4 | 0.20 |
 
-*Seawater*
+**Seawater**
 | RPM | mL/min |
 |---|---|
 | 20 | . |
