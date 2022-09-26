@@ -27,11 +27,14 @@ _(measured Sep 14, 2022)_
 ### Fitting specifics
 List of parts, product numbers, and purchase links [here](https://docs.google.com/spreadsheets/d/1qeb6Xm3a77qfnudg0RbO5zIJ3JhFE3r3gQCl5yniu-8/)
 
-### Switching laptop functionality to prevent connection to WHOI network
+### Switching laptop functionality to prevent/allow connection to WHOI network
 _in command line:_
 
-`ssh root@192.168.0.50`  
-navigate to `?` directory  
+`ssh root@192.168.0.50` or `ssh root@fnsembed3.whoi.edu`  
+navigate to parent directory of `etc`  
 `cd etc`  
 `cd network`  
+`cp interfaces.local interfaces` or  
 
+check that file sizes align as expected:  
+`ls -l`
