@@ -18,11 +18,11 @@ _(measured Sep 14, 2022)_
 **Seawater**
 | RPM | mL/min |
 |---|---|
-| 20 | . |
-| 30 | . |
-| 40 | . |
-| 45 | . |
-| 55 | . |
+| 20 | 5.6 |
+| 30 | 7.8 |
+| 40 | 9.6 |
+| 45 | 10.4 |
+| 55 | 11.9 |
 
 ### Fitting specifics
 List of parts, product numbers, and purchase links [here](https://docs.google.com/spreadsheets/d/1qeb6Xm3a77qfnudg0RbO5zIJ3JhFE3r3gQCl5yniu-8/)
